@@ -1,5 +1,5 @@
 # Project Overview
-This project developed an end to end data engineering and analysis pipeline utilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences.
+This project developed an automated end-to-end data engineering and analysis pipeline utilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences.
 
 Ingesting Earthquake events data from usgs.
 
